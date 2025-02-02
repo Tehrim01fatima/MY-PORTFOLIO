@@ -23,9 +23,7 @@ module.exports = {
 
         },
       },
-      // backgroundImage:{
-      //   pattern:'url('
-      // },
+    
       screens: {
 
         '3xl': '1688PX',
